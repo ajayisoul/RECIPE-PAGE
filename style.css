@@ -1,0 +1,73 @@
+
+h2{
+    color: brown;
+    
+}
+
+
+.omo{
+    box-sizing: border-box; 
+    padding: 30px ;
+    margin: 50px 20px 50px 20px;
+    background-color: white;
+    height: vh;
+    width: 800px;
+    position: relative;
+    left: 0px;
+    top: 100px;
+    border-radius: 15px;
+    font-size:large ;
+    line-height: 0.7cm;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    }
+.baba{
+position: absolute;
+height: 1700px;
+width: 800px;
+background-color: rgb(241, 211, 211);
+top: 830px;
+left: 350px;
+padding: 30px 200px 10px 200px;
+border-radius: 15px;
+
+}
+.ayome{
+    color: brown;
+    text-align: center;
+        }
+.child{
+    box-sizing: border-box; 
+    padding: 25px;
+    margin: 50px 20px 50px 20px;
+    background-color:white;
+    height: vh;
+    width: 800px;
+    position: relative;
+    left: 0px;
+    top: 100px;
+    border-radius: 15px;
+    font-size: large;
+    line-height: 0.7cm;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.parent{
+position: relative;
+height: 1950px;
+width: 800px;
+background-color: rgb(241, 211, 211);
+top: 200px;
+left: 1000px;
+padding: 30px 200px 10px 200px;
+border-radius: 15px;
+}
+
+img{
+    width: 100%;
+    height: 60%;
+    border-radius: 15px;
+}
+
+
